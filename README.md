@@ -1,8 +1,20 @@
 # Songbook_Maker
-Java Swing application to create, edit and generate PDF version of a songbook
+The Songbook Maker is a Java desktop application that enables users to create and edit songbooks.
 
+## Key Features ##
+1. **Song Management**: Easily add, delete, and edit songs within the songbook.
 
-Program jest aplikacją okienkową umożliwiającą tworzenie oraz edycję zapisanych wcześniej śpiewników. 
-Umożliwia dodawanie i usuwanie piosenek, zamianę konkretnych słów na inne. Udostępnia funkcję sortowania piosenek leksykograficznie po tytułach. 
-Program korzystając z biblioteki itextpdf generuje utworzone śpiewniki w formacie pdf. 
-Udostępnia także funkcję sortowania stron śpiewnika do druku w formacie książeczki A5.
+2. **Word Replacement**: Seamlessly swap specific words within songs for customization.
+
+3. **Alphabetical Sorting**: Arrange songs alphabetically by title for convenient organization.
+
+4. **PDF Generation**: Generate songbooks in PDF format for easy sharing and printing.
+
+5. **Printing Optimization**: Sorts PDF pages for printing in A5 booklet format, saving time and paper.
+
+6. **Intuitive Interface**: User-friendly interface with clear buttons and text fields for effortless navigation.
+
+## Used Technologies ##
+- Java Swing
+- iText PDF Library
+- Maven

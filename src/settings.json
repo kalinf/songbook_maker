@@ -1,0 +1,9 @@
+{
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17.0.10",
+            "path": "/usr/bin/java",
+            "default": true
+        }
+    ]
+}
